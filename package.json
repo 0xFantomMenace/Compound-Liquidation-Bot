@@ -1,0 +1,19 @@
+{
+  "name": "oev-compound",
+  "version": "1.0.0",
+  "description": "Liquidation bot for Compound V3",
+  "scripts": {
+    "start": "ts-node src/app.ts"
+  },
+  "author": "0xFantomMenace",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@uniswap/sdk": "^3.0.3",
+    "@uniswap/smart-order-router": "^3.5.0",
+    "ethers": "^6.0.0-beta-exports.12",
+    "ethers-v5": "npm:ethers@^5.4.7",
+    "node-fetch": "2.6.1",
+    "@types/node": "^22.9.0",
+    "tslib": "^2.8.1"
+  }
+}

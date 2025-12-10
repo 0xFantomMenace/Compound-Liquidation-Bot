@@ -1,0 +1,11 @@
+{
+   "PK":"0x",
+   "WebSocket": "wss://",
+   "JsonRPC": "https://",
+   "StartBlock": 12045700,
+   "GasLimit": 1500000,
+   "ChainId": 8453,
+   "CompoundAddress": "0xb125E6687d4313864e53df431d5425969c15Eb2F",
+   "LiquidatorAddress": "0xfDEfDB42e2F2076a8280cb1D6A8A706d59d070aC",
+   "DataHelperAddress": "0x27abd3e7d864f161d4910fb048e3ea45b3b6ae69"
+}
